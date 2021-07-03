@@ -4,3 +4,7 @@ p{
 h1{
     color: blue;
 }
+.author{
+    text-align: center;
+    color: lawngreen;
+}
